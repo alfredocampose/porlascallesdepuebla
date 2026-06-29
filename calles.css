@@ -1,0 +1,55 @@
+/* Estilo para que la palabra parezca un enlace clickeable */
+.palabra-clickeable {
+  color: #0066cc;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.palabra-clickeable:hover {
+  color: #003366;
+}
+
+/* Fondo oscuro del lightbox */
+.lightbox {
+  display: none; /* Oculto por defecto */
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.85); /* Fondo negro semi-transparente */
+  justify-content: center;
+  align-items: center;
+}
+
+/* Clase para mostrar el lightbox usando flexbox para centrar */
+.lightbox.activo {
+  display: flex;
+}
+
+/* Estilo de la imagen dentro del lightbox */
+.lightbox img {
+  max-width: 90%;
+  max-height: 90vh;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+
+/* Botón de cerrar (la "X") */
+.cerrar-lightbox {
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.cerrar-lightbox:hover {
+  color: #ff4444;
+}
