@@ -125,7 +125,8 @@ var data = [
 	['Calle del Curato Viejo del Alto', 					'Avenida 18 Oriente 1400', 		'/2014/12/calle-del-curato-viejo-del-alto-avenida.html',[ [19.046633, -98.186842], [19.046176, -98.18526] ]], //120
 	['Calle del Curato Viejo de Analco', 					'Avenida 7 Oriente 1400', 		'/2014/12/calle-del-curato-viejo-de-analco.html',		[ [19.037901, -98.19156], [19.037132, -98.19008] ]], //121
 	['Calle de Chihuahua', 									'Avenida 10 Oriente 200', 		'/2014/12/cale-de-chihuaha-avenida-10-oriente-200.html',[ [19.047487, -98.194867], [19.046759, -98.193435] ]], //122
-	['Calle de las Chinitas', 								'Avenida 11 Poniente 300', 		'/2014/12/calles-de-las-chinitas-avenida-11.html', 		[ [19.04146, -98.202439], [19.042193, -98.203861] ]], //123['Calle de Chirimoyo, Xanenetla', '', '/2014/12/calle-del-chirimoyo-xanenetla.html', [ [], [] ]], //124
+	['Calle de las Chinitas', 								'Avenida 11 Poniente 300', 		'/2014/12/calles-de-las-chinitas-avenida-11.html', 		[ [19.04146, -98.202439], [19.042193, -98.203861] ]], //123
+
 /*['Calle de Chirimoyo, Xanenetla', '', '/2014/12/calle-del-chirimoyo-xanenetla.html', [ [], [] ]], //124
 ['Calle de Cholula', 'Avenida de la Reforma 300', '/2014/12/calle-de-cholula-avenida-de-la-reforma.html', [ [], [] ]], //125
 ['Calle de la Cholulteca', 'Avenida 16 Oriente 200', '/2014/12/calle-de-la-cholulteca-avenida-16.html', [ [], [] ]], //126
