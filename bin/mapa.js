@@ -102,7 +102,9 @@ var data = [
 	['Calle del Costado del Coliseo', 						'Calle 8 Norte 600', 			'/2014/12/calle-del-costado-del-coliseo-calle-8.html', 	[ [19.044234, -98.192365], [19.044944, -98.191925] ]], //098
 	['Calle del Costado de la Cruz', 						'Calle 12 Norte 1600', 			'/2014/11/calle-del-costado-de-la-cruz-calle-12.html', 	[ [19.045565, -98.188285], [19.046848, -98.187727] ]], //099
 	['Calle del Costado de la Merced', 						'Avenida 10 Poniente 500', 		'/2024/11/calle-del-costado-de-la-merced-avenida.html', [ [19.049817, -98.199441], [19.05055, -98.200897] ]], //100
-//['Calle del Costado de San Agust&iacute;n', 'Avenida 3 Poniente 500', '/2014/12/calle-del-costado-de-san-agustin.html', [ [], [] ]], //101
+    ['Calle del Costado de San Agust&iacute;n', 'Avenida 3 Poniente 500', '/2014/12/calle-del-costado-de-san-agustin.html', [ [], [] ]], //101
+
+	
 /*['Calle del Costado de San Juan de Dios', 'Avenida 16 Oriente 1', '/2014/11/calle-del-costado-de-san-juan-de-dios.html', [ [], [] ]], //102
 ['Calle del Costado de San Juan del R&iacute;o', 'Avenida 20 Oriente 1200', '/2014/11/calle-del-costado-de-san-juan-del-rio.html', [ [], [] ]], //103
 ['Calle del Costado de San Pedro', 'Avenida 2 Oriente 200', '/2014/12/calle-del-costado-de-san-pedro-avenida.html', [ [], [] ]], //104
