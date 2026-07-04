@@ -102,32 +102,31 @@ var data = [
 	['Calle del Costado del Coliseo', 						'Calle 8 Norte 600', 			'/2014/12/calle-del-costado-del-coliseo-calle-8.html', 	[ [19.044234, -98.192365], [19.044944, -98.191925] ]], //098
 	['Calle del Costado de la Cruz', 						'Calle 12 Norte 1600', 			'/2014/11/calle-del-costado-de-la-cruz-calle-12.html', 	[ [19.045565, -98.188285], [19.046848, -98.187727] ]], //099
 	['Calle del Costado de la Merced', 						'Avenida 10 Poniente 500', 		'/2024/11/calle-del-costado-de-la-merced-avenida.html', [ [19.049817, -98.199441], [19.05055, -98.200897] ]], //100
-    ['Calle del Costado de San Agust&iacute;n', 'Avenida 3 Poniente 500', '/2014/12/calle-del-costado-de-san-agustin.html', [ [], [] ]], //101
+['Calle del Costado de San Agust&iacute;n', 			'Avenida 3 Poniente 500', 		'/2014/12/calle-del-costado-de-san-agustin.html', 		[ [19.045246, -98.202142], [19.045966, -98.203571] ]], //101
+	['Calle del Costado de San Juan de Dios', 				'Avenida 16 Oriente 1', 		'/2014/11/calle-del-costado-de-san-juan-de-dios.html', 	[ [19.050537, -98.195055], [19.049799, -98.193639] ]], //102
+	['Calle del Costado de San Juan del R&iacute;o', 		'Avenida 20 Oriente 1200', 		'/2014/11/calle-del-costado-de-san-juan-del-rio.html', 	[ [19.04772, -98.187414], [19.047401, -98.18643] ]], //103
+	['Calle del Costado de San Pedro', 						'Avenida 2 Oriente 200', 		'/2014/12/calle-del-costado-de-san-pedro-avenida.html', [ [19.044427, -98.196646], [19.043671, -98.195213] ]], //104
+	['Calle del Costado de Santa Rosa', 					'Avenida 12 Poniente 300', 		'/2014/12/calle-del-costado-de-santa-rosa-avenida.html',[ [19.049804, -98.19748], [19.050545, -98.198915] ]], //105
+	['Calle del Costado de Santiago', 						'Avenida 19 Poniente 1300', 	'/2014/12/calle-del-costado-de-santiago-avenida.html', 	[ [19.042117, -98.211395], [19.042829, -98.212782] ]], //106
+	['Calle del Costado del Se&ntilde;or de los Trabajos', 	'Avenida 12 Poniente 900', 		'/2014/12/calle-del-costado-del-senor-de-los.html', 	[ [19.05217, -98.202021], [19.05291, -98.203448] ]], //107
+	['Calle de las Cruces', 								'Avenida 4 Oriente 200', 		'/2014/12/calle-de-las-cruces-avenida-4-oriente.html', 	[ [19.045195, -98.1962], [19.04445, -98.194765] ]], //108
+	['Calle de las Cruces (San Antonio)', 		'Avenida 20 Poniente 100 (parte oriental)', '/2014/12/calle-de-las-cruces-san-antonio-avenida.html',[ [19.052327, -98.194631], [19.052114, -98.194229] ]], //109
+	['Calle de la Cruz Alta', 								'Calle 18 Norte 1600', 			'/2014/12/calle-de-la-cruz-alta-calle-18-norte.html',	[ [19.045096, -98.184495], [19.045816, -98.184136] ]], //110
+	['Calle de la Cruz Blanca', 							'Avenida 26 Poniente 900', 		'/2014/12/calle-de-la-cruz-blanca-avenida-26.html', 	[ [19.058503, -98.200159], [19.057524, -98.198912] ]], //111
+	['Calle de la Cruz de Loza', 							'Calle 9 Norte 1400-1600', 		'/2014/12/calle-de-la-cruz-alta-de-loza-calle-9.html', 	[ [19.05294, -98.201519], [19.054375, -98.200693] ]], //112
+	['Calle de la Cruz del Milagro (Analco)', 				'Avenida 10 Oriente 1800', 		'/2014/12/calle-de-la-cruz-del-milagro-analco.html', 	[ [19.042543, -98.185528], [19.042208, -98.184519] ]], //113
+	['Calle de la Cruz del Milagro (Santa Ana)', 			'Calle 13 Norte 1800-2600', 	'/2014/12/calle-de-la-cruz-del-milagro-santa-ana.html', [ [19.055886, -98.203491], [19.056753, -98.203024], [19.056804, -98.203134], [19.057466, -98.20278] , [19.057496, -98.202825] , [19.060295, -98.201109] ] ], //114
+	['Calle de la Cruz de Piedra', 							'Avenida 8 Poniente 100', 		'/2014/12/calle-de-la-cruz-de-piedra-avenida-8.html', 	[ [19.04752, -98.196911], [19.048245, -98.198317] ]], //115
+	['Calle de la Cruz Verde', 								'Avenida 16 Oriente 1600', 		'/2014/12/calle-de-la-cruz-verde-avenida-16.html', 		[ [19.045428, -98.185667], [19.045081, -98.184552] ]], //116
+	['Calle del Cuauht&eacute;moc', 	'Avenida 15 Oriente 1-200 y 15 Poniente 100-1300', 	'/2014/12/calle-de-cuauhtemoc-avenida-15-oriente.html', [ [19.037606, -98.198813], [19.044351, -98.211929] ]], //117
+ 	/*['Calle del Cuernito', 'Avenida de Ayuntamiento 1200', '/2014/12/calle-del-cuernito-avenida-de.html', [ [], [] ]], //118 */
 
-	
-/*['Calle del Costado de San Juan de Dios', 'Avenida 16 Oriente 1', '/2014/11/calle-del-costado-de-san-juan-de-dios.html', [ [], [] ]], //102
-['Calle del Costado de San Juan del R&iacute;o', 'Avenida 20 Oriente 1200', '/2014/11/calle-del-costado-de-san-juan-del-rio.html', [ [], [] ]], //103
-['Calle del Costado de San Pedro', 'Avenida 2 Oriente 200', '/2014/12/calle-del-costado-de-san-pedro-avenida.html', [ [], [] ]], //104
-['Calle del Costado de Santa Rosa', 'Avenida 12 Poniente 300', '/2014/12/calle-del-costado-de-santa-rosa-avenida.html', [ [], [] ]], //105
-['Calle del Costado de Santiago', 'Avenida 19 Poniente 1300', '/2014/12/calle-del-costado-de-santiago-avenida.html', [ [], [] ]], //106
-['Calle del Costado del Se&ntilde;or de los Trabajos', 'Avenida 12 Poniente 900', '/2014/12/calle-del-costado-del-senor-de-los.html', [ [], [] ]], //107
-['Calle de las Cruces', 'Avenida 4 Oriente 200', '/2014/12/calle-de-las-cruces-avenida-4-oriente.html', [ [], [] ]], //108
-['Calle de las Cruces (San Antonio)', 'Avenida 20 Poniente 100 (parte oriental)', '/2014/12/calle-de-las-cruces-san-antonio-avenida.html', [ [], [] ]], //109
-['Calle de la Cruz Alta', 'Calle 18 Norte 1600', '/2014/12/calle-de-la-cruz-alta-calle-18-norte.html', [ [], [] ]], //110
-['Calle de la Cruz Blanca', 'Avenida 26 Poniente 900', '/2014/12/calle-de-la-cruz-blanca-avenida-26.html', [ [], [] ]], //111
-['Calle de la Cruz de Loza', 'Calle 9 Norte 1400-1600', '/2014/12/calle-de-la-cruz-alta-de-loza-calle-9.html', [ [], [] ]], //112
-['Calle de la Cruz del Milagro (Analco)', 'Avenida 10 Oriente 1800', '/2014/12/calle-de-la-cruz-del-milagro-analco.html', [ [], [] ]], //113
-['Calle de la Cruz del Milagro (Santa Ana)', 'Calle 13 Norte 1800-2600', '/2014/12/calle-de-la-cruz-del-milagro-santa-ana.html', [ [], [] ]], //114
-['Calle de la Cruz de Piedra', 'Avenida 8 Poniente 100', '/2014/12/calle-de-la-cruz-de-piedra-avenida-8.html', [ [], [] ]], //115
-['Calle de la Cruz Verde', 'Avenida 16 Oriente 1600', '/2014/12/calle-de-la-cruz-verde-avenida-16.html', [ [], [] ]], //116
-['Calle del Cuauht&eacute;moc', 'Avenida 15 Oriente 1-200 y 15 Poniente 100-1300', '/2014/12/calle-de-cuauhtemoc-avenida-15-oriente.html', [ [], [] ]], //117
-['Calle del Cuernito', 'Avenida de Ayuntamiento 1200', '/2014/12/calle-del-cuernito-avenida-de.html', [ [], [] ]], //118
-['Calle del Curato de la Cruz', 'Avenida 16 Oriente 1200', '/2014/12/calle-del-curato-de-la-cruz-avenida-16.html', [ [], [] ]], //119
-['Calle del Curato Viejo del Alto', 'Avenida 18 Oriente 1400', '/2014/12/calle-del-curato-viejo-del-alto-avenida.html', [ [], [] ]], //120
-['Calle del Curato Viejo de Analco', 'Avenida 7 Oriente 1400', '/2014/12/calle-del-curato-viejo-de-analco.html', [ [], [] ]], //121
-['Calle de Chihuahua', 'Avenida 10 Oriente 200', '/2014/12/cale-de-chihuaha-avenida-10-oriente-200.html', [ [], [] ]], //122
-['Calle de las Chinitas', 'Avenida 11 Poniente 300', '/2014/12/calles-de-las-chinitas-avenida-11.html', [ [], [] ]], //123
-['Calle de Chirimoyo, Xanenetla', '', '/2014/12/calle-del-chirimoyo-xanenetla.html', [ [], [] ]], //124
+	['Calle del Curato de la Cruz', 						'Avenida 16 Oriente 1200', 		'/2014/12/calle-del-curato-de-la-cruz-avenida-16.html', [ [19.0459, -98.187397], [19.04589, -98.187859], [19.045796, -98.188036], [19.04558, -98.188226] ]], //119
+	['Calle del Curato Viejo del Alto', 					'Avenida 18 Oriente 1400', 		'/2014/12/calle-del-curato-viejo-del-alto-avenida.html',[ [19.046633, -98.186842], [19.046176, -98.18526] ]], //120
+	['Calle del Curato Viejo de Analco', 					'Avenida 7 Oriente 1400', 		'/2014/12/calle-del-curato-viejo-de-analco.html',		[ [19.037901, -98.19156], [19.037132, -98.19008] ]], //121
+	['Calle de Chihuahua', 									'Avenida 10 Oriente 200', 		'/2014/12/cale-de-chihuaha-avenida-10-oriente-200.html',[ [19.047487, -98.194867], [19.046759, -98.193435] ]], //122
+	['Calle de las Chinitas', 								'Avenida 11 Poniente 300', 		'/2014/12/calles-de-las-chinitas-avenida-11.html', 		[ [19.04146, -98.202439], [19.042193, -98.203861] ]], //123['Calle de Chirimoyo, Xanenetla', '', '/2014/12/calle-del-chirimoyo-xanenetla.html', [ [], [] ]], //124
+/*['Calle de Chirimoyo, Xanenetla', '', '/2014/12/calle-del-chirimoyo-xanenetla.html', [ [], [] ]], //124
 ['Calle de Cholula', 'Avenida de la Reforma 300', '/2014/12/calle-de-cholula-avenida-de-la-reforma.html', [ [], [] ]], //125
 ['Calle de la Cholulteca', 'Avenida 16 Oriente 200', '/2014/12/calle-de-la-cholulteca-avenida-16.html', [ [], [] ]], //126
 ['Calle de Chorro', 'Avenida 16 Sur 500', '/2014/12/calle-de-chorro-calle-16-sur-500.html', [ [], [] ]], //127
