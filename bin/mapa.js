@@ -439,14 +439,13 @@ var data = [
 ['Calle del Villareal', 										'Calle 5 Sur 1 100', 			'/2015/07/calle-de-villareal-calle-5-sur-1-100.html', 	[ [19.045264, -98.202109], [19.045994, -98.201702] ]], //437
 ['Calle de la Violeta', 										'Avenida 10 Oriente 2000',		'/2015/07/calle-de-la-violeta-avenida-10-oriente.html', [ [19.042207, -98.184449], [19.04175, -98.183114] ]], //438
 ['Calle de Zambrano', 											'Avenida 8 Poniente 300', 		'/2013/12/calle-de-zambrano-avenida-8-poniente-300.html',[ [19.048286, -98.198365], [19.049042, -98.199797] ]], //439
-['Calle de los Zapateros', 'Calle 8 Norte 200', '/2015/11/calle-de-los-zapateros-calle-8-norte-200.html', [ [], [] ]], //440
+//['Calle de los Zapateros', 'Calle 8 Norte 200', '/2015/11/calle-de-los-zapateros-calle-8-norte-200.html', [ [], [] ]], //440
 ['Calle de Zaragoza', 											'Avenida de la Reforma 100', 	'/2015/11/calle-de-zaragoza-avenida-de-la-reforma.html',[ [19.045188, -98.200108], [19.044488, -98.198697] ]], //441
 ['Calle de Z&aacute;rate', 										'Calle 3 Sur 500', 				'/2015/07/calle-del-zarate-calle-3-sur-500.html', 		[ [19.043662, -98.201068], [19.043018, -98.201481] ]], //442
 ['Calle de Zayas', 												'Avenida 10 Poniente 700', 		'/2015/11/calle-de-zayas-avenida-10-poniente-700.html', [ [19.050599, -98.20095], [19.051334, -98.202388] ]], //443
 ['Z&oacute;calo', 												'Avenida 3 Oriente 1', 			'/2015/11/zocalo-avenida-3-oriente-1.html', 			[ [19.043667, -98.199014], [19.042942, -98.197662] ]], //444
-/*['Calles del Carmen', '', '/2009/04/calles-del-carmen.html', [ [], [] ]], //445
-['Calles de Cuahutemoc', '', '/2009/04/calles-de-cuahutemoc.html' [ [], [] ]], //446
-*/
+//['Calles del Carmen', '', '/2009/04/calles-del-carmen.html', [ [], [] ]], //445
+//['Calles de Cuahutemoc', '', '/2009/04/calles-de-cuahutemoc.html' [ [], [] ]], //446
 ];
 
 var urlPrefix='https://porlascallesdepuebla.blogspot.com/';
