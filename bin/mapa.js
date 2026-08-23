@@ -1,3 +1,16 @@
+const map = L.map('map').setView([19.044, -98.20], 14);
+function onMapClick(e) {
+	popup
+		.setLatLng(e.latlng)
+		.setContent('You clicked the map at ${e.latlng.toString()}')
+		/*.openOn(map)*/;
+} 
+map.on('click', onMapClick);
+
+const popup = L.popup()
+	.setLatLng([19.044, -98.20])
+	.setContent('I am a standalone popup.')
+	/*.openOn(map)*/ ;
 var data = [
 	['Calle de la Acequia', 								'Calle 4 sur 700-900', 			'2009/03/calle-de-la-acequia-4-sur-700-900.html', 		[ [19.040599, -98.197017], [19.039908, -98.197423] ]], //001
 	['Calle de la Acocota', 								'Avenida 4 Oriente 1400-2000',	'2009/03/calle-de-la-acocota-avenida-4-oriente.html', 	[ [19.041515, -98.189672], [19.040149, -98.185386] ]], //002
@@ -450,7 +463,6 @@ var data = [
 
 var urlPrefix='https://porlascallesdepuebla.blogspot.com/';
 
-const map = L.map('map').setView([19.044, -98.20], 14);
 const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	maxZoom: 19,
 	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -458,22 +470,23 @@ const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 const grupo = L.featureGroup().addTo(map);
 	
-for (var i=0; i < data.length; i++) {
- 	var colorActual = 'hsl(' + (i * 40) + ', 80%, 45%)';
-	L.polyline(data[i][3], {color: colorActual,weight:10, opacity: 0.5}).addTo(grupo).bindPopup(data[i][0]+'.<br />'+data[i][1]+'. <a href="'+urlPrefix+data[i][2]+'" target="_blank">Ir<\a>');
+for (let i = 0; i < data.length; i++) {
+  const tono = (i * 40) % 360;
+  const colorActual = `hsl(${tono}, 80%, 45%)`;
+
+  L.polyline(data[i][3], {
+    color: colorActual,
+    weight: 10,
+    opacity: 0.5
+  })
+    .addTo(grupo)
+    .bindPopup(
+      `${data[i][0]}.<br>
+       ${data[i][1]}.
+       <a href="${urlPrefix + data[i][2]}" target="_blank">Ir</a>`
+    );
 }
 
 map.fitBounds(grupo.getBounds(),  {
   padding: [20, 20]
 });
-	const popup = L.popup()
-		.setLatLng([19.044, -98.20])
-		.setContent('I am a standalone popup.')
-		/* .openOn(map) */ ;
-	function onMapClick(e) {
-		popup
-			.setLatLng(e.latlng)
-			.setContent(`You clicked the map at ${e.latlng.toString()}`)
-			.openOn(map);
-	} 
-	//map.on('click', onMapClick);
