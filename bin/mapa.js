@@ -1,5 +1,5 @@
 const map = L.map('map').setView([19.044, -98.20], 14);
-function onMapClick(e) {
+function onMapClick(e) { 
 	popup
 		.setLatLng(e.latlng)
 		.setContent('You clicked the map at ' + e.latlng.toString())
