@@ -272,8 +272,8 @@ var data = [
 	['Calle de Merino', 										'Calle 3 Norte 800', 			'/2015/07/calle-de-merino-calle-3-norte-800.html', 		[ [19.048302, -98.198316], [19.048981, -98.19793] ]], //247
 	['Calle del Mes&oacute;n del &aacute;ngel', 				'Avenida 5 Oriente 1200', 		'/2015/07/calle-del-meson-del-angel-avenida-5.html', 	[ [19.039194, -98.192314], [19.038708, -98.191262] ]], //248
 	['Calle del Mes&oacute;n de Priego', 						'Avenida 9 Oriente 800-1000', 	'/2015/07/calle-del-meson-del-priego-avenida-9.html', 	[ [19.038657, -98.195033], [19.037709, -98.193151] ]], //249
-	['Calle del Mes&oacute;n de Santa Teresa', 					'Avenida 8 Oriente 1', 			'/2015/07/calle-del-meson-de-santa-teresa-avenida.html',[ [19.04749, -98.196847], [19.046775, -98.195414] ]], //250
-	['Calle del Mes&oacute;n de Sosa', 							'Avenida 4 Poniente 900', 		'/2015/07/calle-del-meson-de-sosa-avenida-4.html', 		[ [19.049919, -98.203359], [19.050665, -98.20477] ]], //251
+	['Calle del Mes&oacute;n de Santa Teresa', 					'Avenida 8 Oriente 1', 			'/2015/07/calle-del-meson-de-santa-teresa-avenida.html',[ [19.04749 , -98.196847], [19.046775, -98.195414] ]], //250
+	['Calle del Mes&oacute;n de Sosa', 							'Avenida 4 Poniente 900', 		'/2015/07/calle-del-meson-de-sosa-avenida-4.html', 		[ [19.049112, -98.203788], [19.049716, -98.205322] ]], //251
 	['Calle del Mes&oacute;n Viejo', 							'Avenida 6 Oriente 400', 		'/2015/07/calle-del-meson-viejo-avenida-6-oriente.html',[ [19.045163, -98.194223], [19.044412, -98.192754] ]], //252
 	['Calle de Micieses', 										'5 Sur 100', 					'/2013/04/calle-de-micieses-5-sur-100.html', 			[ [19.045989, -98.201672], [19.045238, -98.202085] ]], //253
 	['Calle de los Miradores', 									'Avenida de la Reforme 500', 	'/2015/07/calle-de-los-miradores-avenida-de-la.html', 	[ [19.046009, -98.201701], [19.046719, -98.203112] ]], //254
