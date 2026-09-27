@@ -394,7 +394,7 @@ var data = [
 	['Calle de San Crist&oacute;bal', 								'Calle 4 Norte 600', 			'/2015/11/calle-de-san-cristobal-calle-4-norte-600.html',[ [19.045234, -98.194277], [19.045964, -98.19388] ]], //369
 //['Plazuela de San Francisco', 'Calle 6 y 8 Norte 800', '/2015/11/plazuela-de-san-francisco-calle-6-y-8.html', [ [], [] ]], //370
 	['Calle de San Jer&oacute;nimo', 								'Avenida 7 Oriente 200', 		'/2015/11/calle-de-san-jeronimo-avenida-7-oriente.html',[ [19.04137, -98.19837], [19.040657, -98.197021] ]], //371
-	['Calle 1a.-4a- de San Jos&eacute;', 							'Calle 2 Norte 1600-1000', 		'/2015/11/calles-1a-4a-de-san-jose-calle-2-norte.html', [ [19.050507, -98.193172], [19.043702, -98.197126] ]], //372
+	['Calle 1a - 4a de San Jos&eacute;', 							'Calle 2 Norte 1600-1000', 		'/2015/11/calles-1a-4a-de-san-jose-calle-2-norte.html', [ [19.049753, -98.193557], [19.047517, -98.194861] ]], //372
 	['Plazuela de San Jos&eacute;', 								'Avenida 18 Oriente 200', 		'/2015/11/plazuela-de-san-jose-avenida-18-oriente.html',[ [19.050512, -98.193033], [19.049842, -98.191721] ]], //373
 	['Calle de San Juan de Dios', 									'Calle del 5 de Mayo 1400', 	'/2015/07/calle-de-san-juan-de-dios-calle-del-5.html', 	[ [19.049823, -98.195516], [19.050502, -98.195109] ]], //374
 	['Calle de San Juan de Letr&aacute;n', 							'Calle 2 Sur 700', 				'/2015/11/calle-de-san-juan-de-letran-calle-2-sur.html',[ [19.041385, -98.198461], [19.040675, -98.198864] ]], //375
